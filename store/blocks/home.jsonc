@@ -27,7 +27,7 @@
 
   "flex-layout.col":{
     "children": [
-      "info-card#rethink",
+      "image#electronics",
       "image#major-appliance"
     ]
   },
