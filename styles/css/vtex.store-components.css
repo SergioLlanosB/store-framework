@@ -18,3 +18,9 @@
     background-color: white;
     border: transparent;
 }
+
+.infoCardContainer {
+    max-width: 1260px;
+    padding: 0px;
+    margin: 0px auto;
+}
