@@ -4,7 +4,6 @@
         "shelf"
       ]
     },
-    
     "shelf": {
       "blocks": ["product-summary.shelf"],
       "props": {
@@ -21,7 +20,6 @@
         }
       }
     },
-
     "product-summary.shelf": {
       "children": [
         "product-summary-image",
