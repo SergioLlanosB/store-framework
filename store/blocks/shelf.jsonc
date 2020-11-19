@@ -1,13 +1,9 @@
 {
     "store.home": {
       "blocks": [
-        
-        "shelf",
-        "list-context.product-list",
-        "slider-layout"
+        "shelf"
       ]
     },
-    
     "shelf": {
       "blocks": ["product-summary.shelf"],
       "props": {
