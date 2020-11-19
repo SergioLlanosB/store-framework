@@ -18,3 +18,7 @@
     background-color: blue;
     border: transparent;
 }
+
+.infoCardContainer {
+    max-width: 1260px;
+}
