@@ -1,9 +1,11 @@
 {
     "store.home": {
       "blocks": [
+        
         "shelf"
       ]
     },
+    
     "shelf": {
       "blocks": ["product-summary.shelf"],
       "props": {
