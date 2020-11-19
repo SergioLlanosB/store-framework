@@ -27,11 +27,11 @@
 
 .infoCardHeadline {
     color: black;
-    font-style: bold;
+    font-weight: bold;
 }
 
 .infoCardContainer--vintage {
-    background-color: #edcfd1
+    background-color: #edcfd1;
   }
 
 .infoCardContainer--metal {
