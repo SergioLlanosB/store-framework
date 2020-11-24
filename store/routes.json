@@ -1,5 +1,9 @@
 {
     "store.custom#about-us": {
-      "path": "/about-us"
-    }
+      "path": "sltest--cxmex.myvtex.com/about-us"
+    },
+
+  "store.custom#landing": {
+    "path": "/landing"
   }
+}
